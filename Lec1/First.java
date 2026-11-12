@@ -3,5 +3,6 @@ public class First {
         System.out.println("OK");
         System.out.println("This is feature branch");
         System.out.println("Main branch");
+        System.out.println("Another adding feature to check changes from local to remote");
     }
 }
