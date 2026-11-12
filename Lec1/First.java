@@ -7,6 +7,8 @@ public class First {
         System.out.println("Final change made in feature 1");
         System.out.println("This is a commit in main branch");
         System.out.println("Resolving merge conflict");
+       System.out.println("Main conflict");
         System.out.println("Feature conflict");
+       
     }
 }
