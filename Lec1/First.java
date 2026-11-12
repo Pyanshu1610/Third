@@ -5,5 +5,6 @@ public class First {
         System.out.println("Main branch");
         System.out.println("Another adding feature to check changes from local to remote");
         System.out.println("Final change made in feature 1");
+        System.out.println("This is a commit in main branch");
     }
 }
